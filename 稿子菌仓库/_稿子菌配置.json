@@ -1,0 +1,23 @@
+{
+  "labels": [
+    "收稿",
+    "初审",
+    "外审",
+    "复审",
+    "退修",
+    "主编终审",
+    "格式修订",
+    "编辑校对",
+    "附加材料和数据提交",
+    "🎉录用",
+    "✌️已刊发",
+    "❌退稿"
+  ],
+  "settings": {
+    "reminderPeriod": 14,
+    "reminderEnabled": true,
+    "lastCheck": ""
+  },
+  "version": "稿子菌v7.2",
+  "exportDate": "2026-05-16"
+}

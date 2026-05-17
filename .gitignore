@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+_server_temp/
+
+# 临时文件
+_temp/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,42 @@
+{
+  "id": "demo_paper_001",
+  "title": "基于机器学习的碳排放预测研究",
+  "journal": "Journal of Cleaner Production",
+  "status": "under_review",
+  "role": "first_author",
+  "priority": 3,
+  "submittedDate": "2026-03-15",
+  "manuscriptId": "JCLEPRO-D-26-01234",
+  "tags": ["机器学习", "碳排放", "预测"],
+  "workId": "",
+  "account": {
+    "username": "researcher@example.com",
+    "password": ""
+  },
+  "trackingUrl": "https://ees.elsevier.com/jclepro/",
+  "timeline": [
+    {
+      "id": "evt_001",
+      "date": "2026-03-15",
+      "label": "收稿",
+      "color": "#6366f1",
+      "note": "通过 Editorial Manager 投稿"
+    },
+    {
+      "id": "evt_002",
+      "date": "2026-03-20",
+      "label": "初审",
+      "color": "#8b5cf6",
+      "note": "编辑初步审查通过"
+    },
+    {
+      "id": "evt_003",
+      "date": "2026-04-10",
+      "label": "外审",
+      "color": "#ec4899",
+      "note": "送三位审稿人",
+      "reviewComments": [],
+      "reviewReplies": []
+    }
+  ]
+}
